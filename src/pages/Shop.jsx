@@ -114,7 +114,7 @@ export default function Shop() {
       {/* ── Mobile Filter Drawer (slides up from bottom) ── */}
       <div style={{
         position: 'fixed',
-        bottom: 0, left: 0, right: 0,
+        bottom: 393, left: 0, right: 0,
         background: 'var(--surface)',
         borderRadius: '24px 24px 0 0',
         zIndex: 1999,
