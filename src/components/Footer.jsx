@@ -55,7 +55,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>© 2026 HGreenQ. Made with 🌿 in India.</span>
+          <span>© 2026 HGreenQ. Made with 🌿 By : <span>Surojit</span> in India.</span>
           <div style={{ display: 'flex', gap: 16 }}>
             <span style={{ cursor: 'pointer' }}>Privacy Policy</span>
             <span style={{ cursor: 'pointer' }}>Terms</span>
